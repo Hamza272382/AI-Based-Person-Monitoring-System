@@ -1,4 +1,4 @@
 # AI-Based-Person-Monitoring-System
 FYP project (2024)
-<hr>
+<br>
 Author: Hamza Noman
